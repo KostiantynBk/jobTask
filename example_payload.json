@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Ana Petrova",
+    "email": "ANA.PETROVA@example.com",
+    "phone": "+49 30 123456",
+    "company": "Northstar Logistics",
+    "role": "Operations Director",
+    "services": ["automation", "lead qualification", "dashboard"],
+    "budget": "$12,000",
+    "timeline": "ASAP, ideally this month",
+    "source": "landing-page",
+    "message": "We want to automate inbound client requests, qualify them, and notify our team quickly when high-value prospects arrive."
+  },
+  {
+    "name": "Marcus Lee",
+    "email": "marcus.lee@example.com",
+    "company": "BrightPath Dental",
+    "role": "Practice Owner",
+    "services": "website redesign, booking automation",
+    "budget": "4500",
+    "timeline": "within the next quarter",
+    "source": "google-ads",
+    "message": "Our current website is outdated and we want patients to book consultations online without calling the front desk."
+  },
+  {
+    "name": "Sofia Novak",
+    "email": "sofia@example.com",
+    "services": ["consultation"],
+    "budget": "$800",
+    "timeline": "no rush",
+    "source": "referral",
+    "message": "I am exploring options and would like to understand what is possible before committing to a full project."
+  }
+]
